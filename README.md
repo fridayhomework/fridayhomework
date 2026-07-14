@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![AWS Certified](https://images.credly.com/size/680x680/images/0e284c3f-5164-4421-8660-0d84737941bc/image.png)](https://www.credly.com/badges/410a089d-1c0e-41aa-9efb-2a16adea48c5/public_url)
+
+<p align="center">
+  <a href="https://www.credly.com/badges/410a089d-1c0e-41aa-9efb-2a16adea48c5/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4421-8660-0d84737941bc/image.png" width="180" height="180" alt="AWS Certified Solutions Architect - Associate">
+  </a>
+</p>
