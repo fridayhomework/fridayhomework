@@ -13,9 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<p align="center">
-  <a href="https://www.credly.com/badges/410a089d-1c0e-41aa-9efb-2a16adea48c5/public_url" target="_blank">
-    <img src="https://github.com/user-attachments/assets/ce599b30-a98c-467e-8411-069e81bb7649" width="180" height="180" alt="AWS Certified Solutions Architect - Associate">
-  </a>
-</p>
