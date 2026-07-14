@@ -14,18 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## 🪪 자격증
-
-<table>
-  <tr align="center">
-    <td colspan="1"><b>자격증</b></td>
-  </tr>
-  <tr align="center">
-    <td width="300">
-      <a href="https://www.credly.com/badges/410a089d-1c0e-41aa-9efb-2a16adea48c5/public_url" target="_blank">
-        <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="180" height="180" alt="AWS Certified Solutions Architect - Associate">
-      </a>
-      <br><b>AWS SAA</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.credly.com/badges/410a089d-1c0e-41aa-9efb-2a16adea48c5/public_url" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ce599b30-a98c-467e-8411-069e81bb7649" width="180" height="180" alt="AWS Certified Solutions Architect - Associate">
+  </a>
+</p>
